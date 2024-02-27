@@ -17,4 +17,4 @@ Auto Marzeń to aplikacja webowa umożliwiająca przeglądanie ogłoszeń samoch
 ## Kontakt
 
 - [LinkedIn](https://www.linkedin.com/in/agnieszka-polowczyk-91381323a/)
-- [E-mail](agnieszkapolowczyk1990@gmail.com)
+- [E-mail](mailto:agnieszkapolowczyk1990@gmail.com)
